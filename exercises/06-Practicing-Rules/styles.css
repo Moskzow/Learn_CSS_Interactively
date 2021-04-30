@@ -1,1 +1,22 @@
 /* add your styles here */
+body {
+	padding-left: 20px;
+	background: url("https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true")
+		repeat-y;
+}
+h1 {
+	font-family: Courier;
+	color: red;
+	text-align: center;
+}
+h2 {
+	text-decoration: underline;
+}
+#id1 {
+	background: rgba(255, 255, 255, 0.2);
+	padding: 5px;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+}
